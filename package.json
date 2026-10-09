@@ -1,0 +1,35 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "Smart Utility Toolkit - Web Dev III Lab Assignment 1 using Node.js Core Modules",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node server.js",
+    "calc": "node calculator.js",
+    "dice": "node dice.js",
+    "file": "node fileManager.js",
+    "file:demo": "node fileManager.js demo",
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "core-modules",
+    "http-server",
+    "fs-crud",
+    "crypto-dice",
+    "cli-calculator",
+    "webdev3"
+  ],
+  "author": "Nikhlesh Rohilla <bharatgram25@gmail.com> (https://github.com/rohillanikhlesh2510)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1/issues"
+  },
+  "homepage": "https://github.com/rohillanikhlesh2510/WEB-DEV-3-ASSIGNMENT-1#readme"
+}
